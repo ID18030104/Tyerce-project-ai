@@ -74,7 +74,7 @@ cd Tyerce-project-ai
 
   ### Google Collab
 
-Si vous utilisez un notebook Google collab (conseillé), après avoir cloné le projet, les fichiers apparaitront sur votre gauche, il faudra les télécharger (les 3). Pour le notebook Tyerce-data-legalV2XML, après l'avoir téléchargé, il faut aller dans la barre de tâce, fichier>Ouvrir le notebook, puis selectionner le notebook Tyerce-data-legalV2XML. 
+Si vous utilisez un notebook Google collab (conseillé), après avoir cloné le projet (avec la commande: !git clone https://github.com/ID18030104/Tyerce-project-ai.git dans une cellule), les fichiers apparaitront sur votre gauche, il faudra les télécharger (les 3). Pour le notebook Tyerce-data-legalV2XML, après l'avoir téléchargé, il faut aller dans la barre de tâce, fichier>Ouvrir le notebook, puis selectionner le notebook Tyerce-data-legalV2XML. 
 
 ### 2. Créer un environnement virtuel
 
