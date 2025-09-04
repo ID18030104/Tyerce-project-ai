@@ -1,0 +1,44 @@
+[
+  {
+    "auteur": "Acheteur",
+    "message": "Bonjour, j’ai commandé votre vélo électrique le 1er mars pour 850 €, mais je n’ai toujours pas reçu de confirmation d’expédition."
+  },
+  {
+    "auteur": "Vendeur",
+    "message": "Bonjour, le vélo a bien été expédié le 5 mars. Le transporteur m’indique que la livraison prend environ 10 jours ouvrés selon le contrat."
+  },
+  {
+    "auteur": "Acheteur",
+    "message": "Oui mais aujourd’hui nous sommes le 8 mars, cela fait déjà 7 jours depuis la commande, je veux annuler et être remboursé immédiatement."
+  },
+  {
+    "auteur": "Vendeur",
+    "message": "Comme précisé dans le contrat, le délai de livraison maximum est de 10 jours ouvrés. Nous sommes encore dans les délais légaux et contractuels."
+  },
+  {
+    "auteur": "Acheteur",
+    "message": "Le numéro de suivi reste inactif. Je soupçonne que vous n’avez pas envoyé le vélo."
+  },
+  {
+    "auteur": "Vendeur",
+    "message": "Le colis est en attente de prise en charge par le transporteur. J’ai la preuve de dépôt. Vous ne pouvez pas annuler avant la fin du délai contractuel."
+  },
+  {
+    "auteur": "Acheteur",
+    "message": "Donc si je ne reçois rien avant le 12 mars, je pourrai demander remboursement intégral ?"
+  },
+  {
+    "auteur": "Vendeur",
+    "message": "Oui, après les 10 jours ouvrés prévus, si le vélo n’est pas arrivé, vous aurez droit au remboursement complet selon le contrat."
+  },
+  {
+    "auteur": "Acheteur",
+    "message": "Non mais j'exige un remboursement immédiat, c'est inadmissible, je ne veux plus de ce vélo !"
+
+  },
+  {
+    "auteur": "Vendeur",
+    "message": "Je comprends votre frustration, mais je ne peux pas procéder à un remboursement avant la fin du délai de livraison contractuel. Merci de votre compréhension."
+  }
+  
+]
