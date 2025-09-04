@@ -13,7 +13,7 @@ Ensuite, **Tyerce IA lit tout, applique la loi française (Code civil, Code de l
 ## 🚀 Le notebook principal
 
 Tout le cœur du projet se trouve dans ce notebook :
-🔗 [Tyerce\_IA\_V1\_3\_VF.ipynb](https://github.com/ID18030104/Tyerce-project-ai/blob/main/Tyerce_IA_V1_3_VF.ipynb)
+🔗 [Tyerce\_IA\_V1\_3\_VF.ipynb](https://github.com/ID18030104/Tyerce-project-ai/blob/main/Tyerce_IA_V1_4_VF.ipynb)
 
 Ce notebook montre comment :
 
@@ -74,7 +74,7 @@ cd Tyerce-project-ai
 
   ### Google Collab
 
-Si vous utilisez un notebook Google collab (conseillé), après avoir cloné le projet, les fichiers apparaitront sur votre gauche, il faudra les télécharger. Pour le notebook Tyerce-data-legalV2XML, après l'avoir téléchargé, il faut aller dans la barre de tâce, fichier>Ouvrir le notebook, puis selectionner le notebook Tyerce-data-legalV2XML. Les autres fichiers devront être teléchargés et importés dans l'espace de stockage de la session. 
+Si vous utilisez un notebook Google collab (conseillé), après avoir cloné le projet, les fichiers apparaitront sur votre gauche, il faudra les télécharger (les 3). Pour le notebook Tyerce-data-legalV2XML, après l'avoir téléchargé, il faut aller dans la barre de tâce, fichier>Ouvrir le notebook, puis selectionner le notebook Tyerce-data-legalV2XML. 
 
 ### 2. Créer un environnement virtuel
 
@@ -108,7 +108,7 @@ streamlit run app.py
 
 ## 💻 Ressources nécessaires
 
-* ✅ **GPU recommandé** : au moins 8 Go VRAM (RTX 3060 ou supérieur).
+* ✅ **GPU recommandé** : au moins 8 Go VRAM (RTX 3060 ou supérieur). Fonctionne bien sur Google collab avec une A100.
 * ⚠️ Sur CPU, ça fonctionne pour tester, mais ce sera lent.
 * 📦 Le modèle est **Qwen-2.5 LoRA fine-tuné** : spécialisé sur des litiges et le droit français.
 
