@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# Virtual env
+tyerce-venv/
+
+# Données lourdes
+*.zip
+*.jpg
+*.png
+*.docx
+*.pdf
+*.mp4
+*.mp3
+*.avi
+*.mkv
+*.mov
+*.exe   
